@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="eye" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 34.9 21" style="enable-background:new 0 0 34.9 21;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#FFFFFF;stroke:#000000;stroke-width:0.9597;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#019BEE;stroke-width:0.9264;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FF8C00;stroke-width:0.9264;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#019BEE;stroke-miterlimit:10;}
+</style>
+<rect id="box" x="0.3" y="7.6" class="st0" width="34.5" height="12.9"/>
+<ellipse id="circle" class="st1" cx="17.3" cy="14.1" rx="6.5" ry="6.5"/>
+<path id="iris" class="st2" d="M16.3,12.6c0.7-0.6,1.7-0.5,2.4,0.1c0.6,0.6,0.7,1.7,0.1,2.4"/>
+<g id="lid">
+	<path id="XMLID_3_" class="st3" d="M2.9,14.4c2.8-5.4,8.4-8.7,14.5-8.7c6.1,0,11.7,3.4,14.5,8.7"/>
+	<line id="XMLID_4_" class="st1" x1="0.3" y1="7.6" x2="4.5" y2="11.8"/>
+	<line id="XMLID_5_" class="st1" x1="11.1" y1="7.2" x2="7.8" y2="2.2"/>
+	<path id="XMLID_9_" class="st1" d="M21.5,5.8"/>
+	<line id="XMLID_7_" class="st1" x1="30.3" y1="11.8" x2="34.5" y2="7.6"/>
+	<line id="XMLID_6_" class="st1" x1="24.9" y1="7.5" x2="28.2" y2="2.6"/>
+	<line id="XMLID_10_" class="st1" x1="17.8" y1="0" x2="17.7" y2="6"/>
+</g>
+</svg>

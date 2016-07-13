@@ -2,13 +2,37 @@
 <html>
   <head>
     <title>Wikipedia Viewer</title>
-    <link rel="stylesheet" type="text/css" src="style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <div id="control_bar"></div>
-    <div id="layout_section"></div>
-    <div id="footer"></div>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <div id="intro">
+      <div id="eye"></div>
+      <div id="wikiText">
+          <p>WikiSPY</p>
+      </div>
+      <div id="searchField">
+        <p>-= click to start =-</p>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div id="searchBoxContainer">
+      <div id="random">
+        <input id="searchbox" name="searchbox" type="text" value='' placeholder="Search Term"/>
+        <form style="display: inline" target="_blank" action="http://google.com">
+          <input type="submit" value="random">
+        </form>
+      </div>
+    </div>
+    <div id="results"></div>
+    <div class="spacer"></div>
+    <div id="footer">
+      <p>Coded By: <span>Jason Goebel</span></p>
+      <p>a <a href="http://freecodecamp.com" target="_blank">freecodecamp.com</a> project</p>
+    </div>
+
     <script   src="https://code.jquery.com/jquery-3.0.0.min.js"   integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0="   crossorigin="anonymous"></script>
+    <script   src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"   integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw="   crossorigin="anonymous"></script>
     <script src="script.js"></script>
   </body>
 </html>
